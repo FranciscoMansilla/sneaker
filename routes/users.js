@@ -24,6 +24,14 @@ router.post('/',async(req,res)=>{
     res.send(error)
   }
 })
+router.delete('/all',async(req,res)=>{
+  try {
+    const data = await usersModel.deleteMany()
+    res.send({response:data})
+  } catch (error) {
+    res.send(error)
+  }
+})
 
 
 
