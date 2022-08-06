@@ -8,11 +8,16 @@ const SneakerScheme = new mongoose.Schema(
     name:{
       type:String,
     },
+    genre:{
+      type: ["Men", "Women"],
+      default: "Men"
+    },
     price:{
       type:Number,
     },
     description:{
       type:String,
+      default:'Due to trademark regulations we are not allowed to ship this product outside the EMEA zone. Thank you for your understanding.'
     },
     brand:{
       type:String
