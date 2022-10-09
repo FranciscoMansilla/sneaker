@@ -1,0 +1,244 @@
+[
+  {
+      "stock": {
+          "t8": 1,
+          "t8_5": 0,
+          "t9": 2,
+          "t9_5": 0,
+          "t10": 2,
+          "t10_5": 0,
+          "t11": 1,
+          "t11_5": 0,
+          "t12": 1,
+          "t13": 0
+      },
+      "name": "Nike Air More Uptempo '96",
+      "genre": "Men",
+      "price": 179.9,
+      "description": "Due to trademark regulations we are not allowed to ship this product outside the EMEA zone. Thank you for your understanding.",
+      "brand": "Nike",
+      "img": [
+          "http://res.cloudinary.com/dmrxxn0ek/image/upload/v1660153157/sneakers/w1lnpskw0piwk4udofyr.jpg"
+      ]
+  },
+  {
+      "stock": {
+          "t8": 0,
+          "t8_5": 1,
+          "t9": 1,
+          "t9_5": 1,
+          "t10": 0,
+          "t10_5": 0,
+          "t11": 3,
+          "t11_5": 0,
+          "t12": 2,
+          "t13": 0
+      },
+      "name": "Wmns Adidas Forum Low",
+      "genre": "Women",
+      "price": 109.9,
+      "description": "Due to trademark regulations we are not allowed to ship this product outside the EMEA zone. Thank you for your understanding.",
+      "brand": "Adidas",
+      "img": [
+          "http://res.cloudinary.com/dmrxxn0ek/image/upload/v1660153794/sneakers/tg1om9yv2hog4su67u1a.jpg"
+      ]
+  },
+  {
+      "stock": {
+          "t8": 0,
+          "t8_5": 0,
+          "t9": 2,
+          "t9_5": 1,
+          "t10": 1,
+          "t10_5": 0,
+          "t11": 1,
+          "t11_5": 2,
+          "t12": 0,
+          "t13": 0
+      },
+      "name": "Reebok Club C 85",
+      "genre": "Women",
+      "price": 79.9,
+      "description": "Due to trademark regulations we are not allowed to ship this product outside the EMEA zone. Thank you for your understanding.",
+      "brand": "Reebok",
+      "img": [
+          "http://res.cloudinary.com/dmrxxn0ek/image/upload/v1660155207/sneakers/jzimxzncfqsowu568fxi.jpg"
+      ]
+  },
+  {
+      "stock": {
+          "t8": 3,
+          "t8_5": 2,
+          "t9": 1,
+          "t9_5": 0,
+          "t10": 0,
+          "t10_5": 0,
+          "t11": 0,
+          "t11_5": 1,
+          "t12": 0,
+          "t13": 0
+      },
+      "name": "Air Force 1 Mid '07 QS",
+      "genre": "Women",
+      "price": 179.9,
+      "description": "Due to trademark regulations we are not allowed to ship this product outside the EMEA zone. Thank you for your understanding.",
+      "brand": "Nike",
+      "img": [
+          "http://res.cloudinary.com/dmrxxn0ek/image/upload/v1660155462/sneakers/luu2zaf5f1umoealheju.jpg"
+      ]
+  },
+  {
+      "stock": {
+          "t8": 2,
+          "t8_5": 2,
+          "t9": 1,
+          "t9_5": 2,
+          "t10": 0,
+          "t10_5": 0,
+          "t11": 0,
+          "t11_5": 0,
+          "t12": 0,
+          "t13": 0
+      },
+      "name": "Nike Air Max 97",
+      "genre": "Women",
+      "price": 209.9,
+      "description": "Due to trademark regulations we are not allowed to ship this product outside the EMEA zone. Thank you for your understanding.",
+      "brand": "Nike",
+      "img": [
+          "http://res.cloudinary.com/dmrxxn0ek/image/upload/v1660155556/sneakers/diolxpkyi3yfjtiw8w58.jpg"
+      ]
+  },
+  {
+      "stock": {
+          "t8": 1,
+          "t8_5": 0,
+          "t9": 1,
+          "t9_5": 1,
+          "t10": 1,
+          "t10_5": 0,
+          "t11": 0,
+          "t11_5": 0,
+          "t12": 0,
+          "t13": 0
+      },
+      "name": "Air Jordan 1 Retro High OG «Varsity Red»",
+      "genre": "Women",
+      "price": 170,
+      "description": "Due to trademark regulations we are not allowed to ship this product outside the EMEA zone. Thank you for your understanding.",
+      "brand": "Jordan",
+      "img": [
+          "http://res.cloudinary.com/dmrxxn0ek/image/upload/v1660155609/sneakers/isc5apjlngl3hipw3nsp.jpg"
+      ]
+  },
+  {
+      "stock": {
+          "t8": 0,
+          "t8_5": 0,
+          "t9": 0,
+          "t9_5": 2,
+          "t10": 2,
+          "t10_5": 0,
+          "t11": 0,
+          "t11_5": 0,
+          "t12": 0,
+          "t13": 0
+      },
+      "name": "Air Jordan 1 Mid SE «Split Black White»",
+      "genre": "Women",
+      "price": 170,
+      "description": "Due to trademark regulations we are not allowed to ship this product outside the EMEA zone. Thank you for your understanding.",
+      "brand": "Jordan",
+      "img": [
+          "http://res.cloudinary.com/dmrxxn0ek/image/upload/v1660155688/sneakers/kbiyv51exvixweia7mrl.jpg"
+      ]
+  },
+  {
+      "stock": {
+          "t8": 2,
+          "t8_5": 2,
+          "t9": 1,
+          "t9_5": 0,
+          "t10": 1,
+          "t10_5": 0,
+          "t11": 0,
+          "t11_5": 0,
+          "t12": 0,
+          "t13": 0
+      },
+      "name": "Nike X Hello Kitty Air Presto QS",
+      "genre": "Women",
+      "price": 160,
+      "description": "Due to trademark regulations we are not allowed to ship this product outside the EMEA zone. Thank you for your understanding.",
+      "brand": "Nike",
+      "img": [
+          "http://res.cloudinary.com/dmrxxn0ek/image/upload/v1660155738/sneakers/cme1jhen7t4o0wfo7gdu.jpg"
+      ]
+  },
+  {
+      "stock": {
+          "t8": 0,
+          "t8_5": 0,
+          "t9": 2,
+          "t9_5": 1,
+          "t10": 1,
+          "t10_5": 2,
+          "t11": 0,
+          "t11_5": 0,
+          "t12": 0,
+          "t13": 0
+      },
+      "name": "Adidas Supernova Cushion 7",
+      "genre": "Women",
+      "price": 134.9,
+      "description": "Due to trademark regulations we are not allowed to ship this product outside the EMEA zone. Thank you for your understanding.",
+      "brand": "Adidas",
+      "img": [
+          "http://res.cloudinary.com/dmrxxn0ek/image/upload/v1660155864/sneakers/c8wnfn5l88efcivqvjpk.jpg"
+      ]
+  },
+  {
+      "stock": {
+          "t8": 1,
+          "t8_5": 2,
+          "t9": 3,
+          "t9_5": 5,
+          "t10": 0,
+          "t10_5": 0,
+          "t11": 0,
+          "t11_5": 0,
+          "t12": 0,
+          "t13": 0
+      },
+      "name": "Air Jordan 1 Low SE",
+      "genre": "Women",
+      "price": 170,
+      "description": "Due to trademark regulations we are not allowed to ship this product outside the EMEA zone. Thank you for your understanding.",
+      "brand": "Jordan",
+      "img": [
+          "http://res.cloudinary.com/dmrxxn0ek/image/upload/v1660155903/sneakers/gmgwgv6rxugngmkcnis1.jpg"
+      ]
+  },
+  {
+      "stock": {
+          "t8": 1,
+          "t8_5": 1,
+          "t9": 1,
+          "t9_5": 1,
+          "t10": 1,
+          "t10_5": 1,
+          "t11": 0,
+          "t11_5": 0,
+          "t12": 0,
+          "t13": 0
+      },
+      "name": "Air Jordan 3 Retro",
+      "genre": "Women",
+      "price": 235,
+      "description": "Due to trademark regulations we are not allowed to ship this product outside the EMEA zone. Thank you for your understanding.",
+      "brand": "Jordan",
+      "img": [
+          "http://res.cloudinary.com/dmrxxn0ek/image/upload/v1660155960/sneakers/ac1rdqqevtrb918aac3n.jpg"
+      ]
+  }
+]
