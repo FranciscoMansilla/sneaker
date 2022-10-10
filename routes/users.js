@@ -71,7 +71,6 @@ router.post('/register',async(req,res)=>{
       res.send({
         succes: false,
         msg: 'Error al registrar usuario',
-        error: err
       })
     } else {
       const token = getToken({email, code})

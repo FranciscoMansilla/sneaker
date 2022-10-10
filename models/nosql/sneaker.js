@@ -9,8 +9,7 @@ const SneakerScheme = new mongoose.Schema(
       type:String,
     },
     genre:{
-      type: ["Men", "Women"],
-      default: "Men"
+      type: String,
     },
     price:{
       type:Number,
