@@ -1,8 +1,11 @@
 const express = require('express')
+const {auth} = require('./../middleware/auth')
 const router = express.Router()
-const {sneakerModel} = require('../models')
+const {sneakerModel, usersModel} = require('../models')
 const sneakerSeeder = require('../seeder/sneakers.json')
 const {getToken, getTokenData} = require('../config/jwt.config')
+
+//router.use(auth)
 
 router.get('/seeder',async(req,res)=>{
   try {
@@ -17,23 +20,11 @@ router.get('/seeder',async(req,res)=>{
 })
 
 router.get('/',async(req,res)=>{
-  // const authorization = req.get('authorization') 
-  // let token = null
-  // if(authorization && authorization.toLowerCase().startsWith('bearer')){
-  //   token= authorization.substring(7)
-  // }
-  // const decodedToken = getTokenData(token)
-  if(true){
-
-  // if(decodedToken && decodedToken.data.code){
-    const data = await sneakerModel.find({})
-    res.send({
-      length: data.length,
-      sneakers: data,
-    })
-  } else {
-    res.send({succes: false, auth: 'no auth'})
-  }
+  const data = await sneakerModel.find({})
+  res.send({
+    length: data.length,
+    sneakers: data,
+  })
 })
 
 router.get('/men/:pag', async(req, res) => {
